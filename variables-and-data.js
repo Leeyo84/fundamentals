@@ -33,4 +33,3 @@ let mod = 5 % 2;
 let string = "String 1 " + "String 2";
 
 console.log(string)
-
